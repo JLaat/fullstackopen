@@ -1,0 +1,11 @@
+selain->palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+note left of selain
+Tapahtumakäsittelijän aktivoituessa:
+
+1.JavaScript koodi estää sivun uudelleenlatautumisen
+2.Luo muistiinpanon ja lisää tämän listaan
+3.Renderöi DOM:in uudelleen nykyisen listan perusteella
+4.Lähettää muistiinpanon palvelimelle JSON muodossa
+end note
+
+
